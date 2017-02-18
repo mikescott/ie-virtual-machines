@@ -11,11 +11,11 @@ $systems = [
 	'Mac' => [
 		'Parallels',
 		'VirtualBox',
-		'VMWare'
+		'VMware'
 	], 
 	'Windows' => [
 		'VirtualBox',
-		'VMWare',
+		'VMware',
 		'VPC'
 	]
 ];
