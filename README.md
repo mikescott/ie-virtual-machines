@@ -37,4 +37,4 @@ Mac       | VirtualBox  | [Download](https://az412801.vo.msecnd.net/vhd/VMBuild_
 Mac       | VMware      | [Download](https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/VMware/IE8/Mac/IE8.XP.For.Mac.VMware.zip)
 Windows   | VirtualBox  | [Download](https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/VirtualBox/IE8/Windows/IE8.XP.For.Windows.VirtualBox.zip)
 Windows   | VMware      | [Download](https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/VMware/IE8/Windows/IE8.XP.For.Windows.VMware.zip)
-Windows   | VirtualBox  | [Download](https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/VPC/IE8/Windows/IE8.XP.For.Windows.VPC.zip)
+Windows   | Virtual PC  | [Download](https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/VPC/IE8/Windows/IE8.XP.For.Windows.VPC.zip)
