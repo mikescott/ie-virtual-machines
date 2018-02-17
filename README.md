@@ -1,3 +1,7 @@
+:warning: **As of Feburary 2018 these links no longer work** :warning:
+
+---
+
 # Internet Explorer Windows XP and Vista Virtual Machines
 
 A few years ago Microsoft launched [modern.ie](http://modern.ie) which included virtual machine images of all their browsers going as far back as IE 6 in Windows XP.
